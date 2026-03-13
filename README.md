@@ -269,37 +269,6 @@ Backend health check:
 - generate rewards
 - dispatch rewards with tracking details
 
-## Performance Improvements Included
-
-To make the app feel lighter and more production-ready, the frontend includes:
-
-- lazy-loaded major pages and components
-- chunk splitting through Vite vendor chunking
-- page-specific loading states
-
-## Final Verification Performed
-
-This project was checked before finalizing.
-
-Verified successfully:
-
-- frontend dev server responds
-- backend health route responds
-- frontend production build passes
-- backend JavaScript syntax checks pass
-- auth flow works
-- emissions calculation works
-- sustainability advisor endpoint works
-- tree offset flow works
-- blog create and blog read flow works
-- CSR create, submit, verify, close, and reward generation work
-- social post flow works
-- leaderboard route works
-
-## Database State
-
-The database was reset after final verification, so the project is currently in a fresh state with no demo or leftover test records.
-
 ## Why This Project Matters
 
 Duty of Life is built around the belief that sustainability tools should not feel dry, isolated, or intimidating. People stay engaged when they can measure progress, see results, learn from others, and feel part of something larger than themselves.
