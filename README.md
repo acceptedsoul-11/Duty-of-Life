@@ -299,7 +299,6 @@ Verified successfully:
 ## Database State
 
 The database was reset after final verification, so the project is currently in a fresh state with no demo or leftover test records.
-
 ## Why This Project Matters
 
 Duty of Life is built around the belief that sustainability tools should not feel dry, isolated, or intimidating. People stay engaged when they can measure progress, see results, learn from others, and feel part of something larger than themselves.
